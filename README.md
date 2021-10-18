@@ -10,7 +10,9 @@ Free icons on https://icons8.com/
 # Build
 
 After get project : 
+
     1. flutter pub get
+    
     2. flutter run
 
-![Finished App](https://Mouhcine-Flutter.github.io/images/Flutter-SignUp-Ui.png)
+![Finished App](https://Mouhcine-Flutter.github.io/images/Flutter-SignUp-UI.png)
