@@ -2,7 +2,7 @@
 
 Android :white_check_mark: iOS :white_check_mark: 
 
-This is implementation of a beautiful SignUppage design in Flutter.  
+This is implementation of a modern SignUp page design in Flutter.  
 
 Packages Used : flutter_svg ( for icon logo )
 Free icons on https://icons8.com/
